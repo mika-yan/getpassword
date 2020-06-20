@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/getpassword/static/css/main.981f7211.chunk.css",
+    "main.js": "/getpassword/static/js/main.5189453d.chunk.js",
+    "main.js.map": "/getpassword/static/js/main.5189453d.chunk.js.map",
+    "runtime-main.js": "/getpassword/static/js/runtime-main.ef606ca3.js",
+    "runtime-main.js.map": "/getpassword/static/js/runtime-main.ef606ca3.js.map",
+    "static/css/2.86df01db.chunk.css": "/getpassword/static/css/2.86df01db.chunk.css",
+    "static/js/2.5049d72f.chunk.js": "/getpassword/static/js/2.5049d72f.chunk.js",
+    "static/js/2.5049d72f.chunk.js.map": "/getpassword/static/js/2.5049d72f.chunk.js.map",
+    "index.html": "/getpassword/index.html",
+    "precache-manifest.c59e7e0013a0c8b9f08ccfe00ad57d0d.js": "/getpassword/precache-manifest.c59e7e0013a0c8b9f08ccfe00ad57d0d.js",
+    "service-worker.js": "/getpassword/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/getpassword/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/getpassword/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.5049d72f.chunk.js.LICENSE.txt": "/getpassword/static/js/2.5049d72f.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/getpassword/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef606ca3.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.5049d72f.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.5189453d.chunk.js"
+  ]
+}
